@@ -1,0 +1,18 @@
+
+main {
+    direction: rtl;
+    display: block;
+}
+/* labels */
+label.block.font-medium.text-sm.text-gray-700 {
+    direction: rtl;
+    float: right;
+}
+.panel.panel-default{
+    direction: rtl;
+
+}
+
+.s006 {
+    direction: rtl;
+}

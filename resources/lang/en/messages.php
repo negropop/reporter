@@ -1,0 +1,47 @@
+<?php
+return [
+    'Admin'       => 'Admin',
+    'Profile'       => 'Profile',
+    'Logout'       => 'Logout',
+    'Thieves List'       => 'Thieves List',
+    'Report Information'       => 'Report Information',
+    'Apply Form'       => 'Apply Form',
+    'Your Name'       => 'Your name',
+    'Enter Your Name'       => 'Enter Your name',
+    'Your Mobile(Not Required)'       => 'Your Mobile(Not Required)',
+    'hh'       => 'Your Mobile(Not Required)',
+    'Thief Name'       => 'Thief Name',
+    'Praivte Facebook Link'       => 'Your FB Link ',
+    'Your Facebook Link'       => 'Enter Your FB Link ',
+    'Thief Email'       => 'Enter Thief Email ',
+    'Thief Facebook'       => 'Enter Thief Facebook',
+    'Thief like'       => 'Enter Thief Email like @gmail.com',
+    'Thief Mobile'       => 'Enter Thief mobile',
+    'Upload Screen'       => 'Enter Upload Screen',
+    'name.required'       => 'Name Field Required',
+    'sface.required'       => ' Your FB Field Required ',
+    'thief.required'       => 'Thief Name Field Required',
+    'tface.required'       =>'Thief FB Field Required',
+    'tmobile.required'       => 'Thief Mobile Field Required',
+    'screen.required'       => 'Screen Field Required Important For Confirm',
+    'Screen'       => 'Screen',
+    'Total Data'       => 'Total Data Founded',
+    'save'       => 'send',
+    'Search thieves'       => 'Search thieves',
+    'Live search in database'       => 'Live search in database',
+    'Search Thieves Data'       => 'Search Thieves Data',
+    'Home'       => 'Home',
+    'Who is the thief?'       => 'Who is the thief',
+      // 'Enter name or email or facebook or phone'       => 'دخل الاسم او بريد او فيس او رقم الحرامي',
+    'Enter name or email or facebook or phone'       => 'Enter name or email or facebook or phone',
+    'Theif name'       => 'Theif name',
+    'Total Reportes'       => 'Total Reportes',
+    'Detials'       => 'Detials',
+    'List of thieves'       => 'List of thieves',
+    'Send Report'       => 'Send Report',
+    
+    
+
+];
+
+?>
